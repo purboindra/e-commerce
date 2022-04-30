@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856893842551",
+    "project_id": "shop-app-76b4d",
+    "storage_bucket": "shop-app-76b4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856893842551:android:807dff5574f43cae799272",
+        "android_client_info": {
+          "package_name": "com.purboindra.app_8april_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856893842551-a6vbhhrif4o091fgt3i9k022vgtqi553.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4mgKxB8zH7oZUIWttwpDLVeV-XfZnqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856893842551-a6vbhhrif4o091fgt3i9k022vgtqi553.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
